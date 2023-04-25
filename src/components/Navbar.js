@@ -13,6 +13,7 @@ const handleclick=()=>{
     <div className='header' prima="true">
         <div className='container' prima="true">
             <h1>Zerodha<span className='primary' prima="true">Stat</span> </h1>
+      <h1>Zerodha<span className='primary' prima="true">Stat</span> </h1>
             <ul className={click ? 'nav-menu active' : 'nav-menu'} prima="true">
                 <li>
                     <a href='/'>Home</a>
